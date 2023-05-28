@@ -2,7 +2,7 @@
 accounts of the data warehouse.</h1>
 
 <h3>It contains 3 dictionaries in Excel format </h3>
-<h4 margin="20px">
+<h4  align="center">
   Bank dictionary: <a href="https://github.com/Nident/DWH-projects/blob/main/case_1/Банк_ЭКСЕЛЬ.xlsx">Банк_ЭКСЕЛЬ</a>
 </h4>
 
