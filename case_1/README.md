@@ -2,7 +2,7 @@
 accounts of the data warehouse.</h1>
 
 <h3>It contains 3 dictionaries in Excel format </h3>
-<h4>
+<h4 margin="20px">
   Bank dictionary: <a href="https://github.com/Nident/DWH-projects/blob/main/case_1/Банк_ЭКСЕЛЬ.xlsx">Банк_ЭКСЕЛЬ</a>
 </h4>
 
@@ -17,3 +17,8 @@ accounts of the data warehouse.</h1>
 <h4>
   Chart of Accounts dictionary :  <a href="https://github.com/Nident/DWH-projects/blob/main/case_1/План_ЭКСЕЛЬ.xlsx">План_ЭКСЕЛЬ</a> 
 </h4>
+
+
+<h3> and the source script : 
+  <a href=" https://github.com/Nident/DWH-projects/blob/main/case_1/Case_1_creating.sql">Case-1</a> 
+ <h3> 
