@@ -20,5 +20,5 @@ accounts of the data warehouse.</h1>
 
 
 <h3> and the source script : 
-  <a align="center" href=" https://github.com/Nident/DWH-projects/blob/main/case_1/Case_1_creating.sql">Case-1</a> 
+  <a align="center" href="https://github.com/Nident/DWH-projects/blob/main/case_1/Case_1_creating.sql">Script</a> 
  <h3> 
