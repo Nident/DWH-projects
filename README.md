@@ -10,13 +10,6 @@ Small educational projects
   <li>Report</li>
   <li>Source-to-Target mapping</li>
 </ul>
-<nav>
-    <ul>
-        <li><a href="#case1">Case 1</a></li>
-        <li><a href="#case2">Case 2</a></li>
-        <li><a href="#case3">Case 3</a></li>
-    </ul>
-</nav>
 
 <section id="case1">
     <h2> Case 1 task</h2>
